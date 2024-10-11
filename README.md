@@ -6,6 +6,12 @@ Welcome to the JetRacer Pro Autonomous Driving project! This repository showcase
 
 This project uses the NVIDIA Jetson Nano and the JetRacer Pro AI Kit to build an autonomous driving car capable of navigating complex tracks and avoiding obstacles, all powered by deep learning. 🚙💡
 
+
+
+https://github.com/user-attachments/assets/9f748a64-06bb-43b9-bf66-ea0c1eb6f793
+
+
+
 ## 🧠 Key Features
 
 - **Deep Learning Models**: Trained and tested models like ResNet-18, ResNet-34, and SqueezeNet for real-time navigation. ResNet-18 turned out to be the champion, balancing speed and accuracy! 🥇
